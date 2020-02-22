@@ -1,0 +1,236 @@
+html,body{
+height:100%;
+}
+
+footer{
+width:100%;
+position:absolute;
+bottom:0px;
+left:0px;
+}
+
+.footer-top{
+width:100%;
+height:auto;
+margin:auto;
+background:#F44336;
+padding:1px;
+position:absolute;
+top:-45px;
+}
+
+.footer-top p{
+font-family:Lato;
+font-size:14px;
+text-align:center;
+color:#fff;
+font-weight:600;
+letter-spacing:1px;
+}
+
+.footer-top p a{
+color:#fff;
+}
+
+.footer-top p a:hover{
+color:#272727;
+}
+
+a{
+text-decoration:none;
+outline:none;
+}
+
+
+
+.footer-main-div{
+width:100%;
+height:auto;
+margin:auto;
+background:#272727;
+padding:20px 0px;
+}
+
+
+
+
+.footer-social-icons{
+width:100%;
+height:auto;
+margin:auto;
+}
+
+.footer-social-icons ul{
+margin:0px;
+padding:0px;
+text-align:center;
+}
+
+.footer-social-icons ul li{
+display:inline-block;
+width:50px;
+height:50px;
+margin:0px 10px;
+border-radius:100%;
+background:#f44336;
+}
+
+.footer-social-icons ul li a{
+color:#272727;
+font-size:25px;
+display:block;
+}
+
+.footer-social-icons ul li a i{
+line-height:50px;
+}
+
+.footer-menu-one{
+width:100%;
+height:auto;
+margin:auto;
+margin-top:25px;
+}
+
+.footer-menu-one ul{
+margin:0px;
+padding:0px;
+text-align:center;
+}
+
+.footer-menu-one ul li{
+display:inline-block;
+margin:0px 15px;
+}
+
+.footer-menu-one ul li a{
+font-family:Lato;
+font-size:15px;
+font-weight:600;
+color:#fff;
+letter-spacing:1px;
+text-transform:uppercase;
+margin:0px 15px;
+}
+
+.footer-menu-one ul li a:hover{
+color:#f44336;
+transition:0.3s ease-in-out;
+}
+
+
+
+
+a{
+text-decoration:none;
+outline:none;
+}
+
+.footer-main-div{
+width:100%;
+height:auto;
+margin:auto;
+background:#272727;
+padding:25px 0px;
+}
+
+.footer-social-icons{
+width:100%;
+height:auto;
+margin:auto;
+}
+
+.footer-social-icons ul{
+margin:0px;
+padding:0px;
+text-align:center;
+}
+
+.footer-social-icons ul li{
+display:inline-block;
+width:50px;
+height:50px;
+margin:0px 10px;
+border-radius:100%;
+background:#f44336;
+}
+
+.footer-social-icons ul li:hover{
+background:#272727;}
+
+.footer-social-icons ul li:hover a{
+color:#f44337;
+transition:0.3s ease-in-out;}
+
+.footer-social-icons ul li a{
+color:#272727;
+font-size:25px;
+display:block;
+}
+
+
+.footer-social-icons ul li a i{
+line-height:50px;
+}
+
+.footer-menu-two{
+width:100%;
+height:auto;
+margin:auto;
+margin-top:15px;
+}
+
+.footer-menu-two ul{
+margin:0px;
+padding:0px;
+text-align:center;
+}
+
+.footer-menu-two ul li{
+display:inline-block;
+margin:0px 15px;
+}
+
+.footer-menu-two ul li a{
+font-family:Lato;
+font-size:14px;
+font-weight:600;
+color:#fff;
+letter-spacing:1px;
+text-transform:uppercase;
+margin:0px 15px;
+}
+
+.footer-menu-two ul li a:hover{
+color:#f44336;
+}
+
+.footer-bottom{
+width:100%;
+height:auto;
+margin:auto;
+background:#F44336;
+padding:1px;
+}
+
+.footer-bottom p{
+font-family:Lato;
+font-size:14px;
+text-align:center;
+color:#fff;
+font-weight:600;
+letter-spacing:1px;
+}
+
+.footer-bottom p a{
+color:#fff;
+}
+
+.footer-bottom p a:hover{
+color:#272727;
+}
+
+#contenue{
+min-height:100%;
+position:relative;
+}

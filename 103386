@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>us</title>
+<link rel="stylesheet" href="public/css/normalize.css">
+			<link rel="stylesheet" href="public/css/contact.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" charset="utf-8"></script>
+<script src="https://kit.fontawesome.com/eabdcfd136.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="public/img">
+
+</head>
+<body class="contact" >
+<div class="contact-info" >
+
+
+<div class="card" >
+
+<i class="card-icon fas fa-envelope" ></i>
+
+<p>trazyx23@gmail.com</p>
+
+</div>
+
+<div class="card" >
+
+<i class="card-icon fab fa-instagram" ></i>
+
+<p>flxviol19</p>
+
+</div>
+
+<div class="card" >
+
+<i class="card-icon fas fa-map-marker-alt" ></i>
+
+<p>Wavre, BE</p>
+
+</div>
+
+</div>
+
+
+
+</body>
+</html>
